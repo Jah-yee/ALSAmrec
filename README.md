@@ -6,9 +6,9 @@ A customized+improved J. Bruce Fields' [openwrt-recording](https://github.com/bf
 
 :white_check_mark: [Heredocs](https://en.wikipedia.org/wiki/Here_document) setup script;
 
-:white_check_mark: [USB Class Compliant audio device](https://github.com/FORARTfe/hALSAmrec/wiki/USB-Class-Compliant-audio-devices) autoprobe;
+:white_check_mark: [USB Class Compliant audio device](https://github.com/FORARTfe/ALSAmrec/wiki/USB-Class-Compliant-audio-devices) autoprobe;
 
-:white_check_mark: [exFAT](https://github.com/FORARTfeh/hALSAmrec/wiki/Why-exFAT-Was-Chosen-for-the-SD-Card-Recording-Partition) (SDcard) recording;
+:white_check_mark: [exFAT](https://github.com/FORARTfe/ALSAmrec/wiki/Why-exFAT-Was-Chosen-for-the-SD-Card-Recording-Partition) (SDcard) recording;
 
 :white_check_mark: remote - webcommand - start/stop/status/probe ([Home App for Android™](https://github.com/Domi04151309/HomeApp#readme)-compatible too);
 
